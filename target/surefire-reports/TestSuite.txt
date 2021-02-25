@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 7, Time elapsed: 10,807.333 s <<< FAILURE! - in TestSuite
+com.vanran.tests.ItemsEditTest.OpenBrowserGrade  Time elapsed: 10,806.28 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+java.net.SocketTimeoutException: timeout
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SUBHANGIS-LPT', ip: '172.30.100.51', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_261'
+Driver info: driver.version: ChromeDriver
+Caused by: java.net.SocketTimeoutException: timeout
+Caused by: java.net.SocketTimeoutException: Read timed out
+
