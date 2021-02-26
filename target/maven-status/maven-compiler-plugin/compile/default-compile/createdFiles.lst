@@ -1,4 +1,5 @@
 com\objects\CheckPriority.class
+com\objects\CustomerDetailView.class
 com\objects\UsersRepNameMappingEdit.class
 com\objects\CustomerDetails.class
 com\objects\DebugDeregister.class

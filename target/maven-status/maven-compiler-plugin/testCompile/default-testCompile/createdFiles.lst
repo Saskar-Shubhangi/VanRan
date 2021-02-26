@@ -8,6 +8,7 @@ com\vanran\tests\CommonFunctions.class
 com\vanran\tests\ItemTest.class
 com\vanran\tests\TranslationsTest.class
 com\vanran\tests\UserRepNameMappingEditTest.class
+com\vanran\tests\CustomerDetailViewTest.class
 com\vanran\tests\UserUpdateTest.class
 com\vanran\tests\PriorityDeleteTest.class
 com\vanran\tests\CheckPriorityTest.class
